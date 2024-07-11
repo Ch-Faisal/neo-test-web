@@ -257,7 +257,7 @@ const HomePage = () => {
                 <div className='col-lg-4 col-md-6 col-12 mt-md-0 mt-4'>
                     <div className='card1'>
                         <div className='d-flex justify-content-center pt-5'>
-                            <img src='assets/NEOTEST P+ Pouch 1.png'/>
+                            <img src='assets/Neotest1.png'/>
                         </div>
                         <div className='text-center p-4'>
                         <h3 className='pt-3 card-heading'>Lorem Ipsum is simply...</h3>
@@ -268,7 +268,7 @@ const HomePage = () => {
                 <div className='col-lg-4 col-md-6 col-12 mt-lg-0 mt-md-0 mt-4'>
                     <div className='card1'>
                         <div className='d-flex justify-content-center pt-5'>
-                            <img src='assets/NEOTEST P+ BOX Backside 1.png'/>
+                            <img src='assets/Neotest2.png'/>
                         </div>
                         <div className='text-center p-4'>
                         <h3 className='pt-3 card-heading'>Lorem Ipsum is simply...</h3>
@@ -279,7 +279,7 @@ const HomePage = () => {
                 <div className='col-lg-4 col-md-6 col-12 mt-lg-0 mt-4'>
                     <div className='card1'>
                         <div className='d-flex justify-content-center pt-5'>
-                            <img src='assets/NEOTEST P+ Device 1.png'/>
+                            <img src='assets/Neotest3.png'/>
                         </div>
                         <div className='text-center p-4'>
                         <h3 className='pt-3 card-heading'>Lorem Ipsum is simply...</h3>
